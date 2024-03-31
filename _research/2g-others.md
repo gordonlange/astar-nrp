@@ -1,5 +1,5 @@
 ---
-title: Others
+title: Singapore Robotics Technical Vista
 permalink: /research/others/
 third_nav_title: Technical Focus Areas
 ---
